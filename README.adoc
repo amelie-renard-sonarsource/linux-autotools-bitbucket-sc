@@ -1,7 +1,7 @@
 = C++ example project scanned on SonarCloud using Bitbucket Cloud pipelines
 // TODO: add SC status
 // TODO: add link to SC
-
+test
 To analyze a C, C++ and Objective-C project on Bitbucket pipelines with SonarCloud, follow the steps described here: https://sonarcloud.io/documentation/getting-started/bitbucket-cloud/[Getting started with Bitbucket Cloud].
 
 To sum up, you need to:
